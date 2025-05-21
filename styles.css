@@ -5,6 +5,7 @@
                 font-style: normal;
             }
 
+
     /* RESET */
     * {
         margin: 0;
@@ -123,6 +124,8 @@
         font-size: 30px;
         font-weight: 700;
     }
+
+
 
     .balance-number--special {
         color: red;

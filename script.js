@@ -34,3 +34,8 @@
 
 
 
+const headingEl = document.querySelector('.first-heading');
+
+const balanceEl = document.querySelector('.balance-number');
+
+balanceEl.insertAdjacentHTML('beforeend','<span>1</span>')
